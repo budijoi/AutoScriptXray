@@ -27,7 +27,7 @@ Installasi Netz-Xray Multi Port 443 & 80
 4. Lalu pergi ke tab pull request kamu submit aja ke repo utamaku
 5. Langsung diterima (Kalo ga sibuk)
 
-# Cara Insttallnya
+# Cara Installnya
 1. VPS baru dibikin (hanya bisa untuk KVM)
 2. Punya domain yang udah dipointing (**Kalo Gapunya Chat Telegramku**)
    - Pergi ke cloudflare ini konfiurasinya tab TLS/SSL Harus pilih yang FULL
